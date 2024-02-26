@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "custom-button",
-			"url": Webcomponent.js,
+			"url": "https://github.com/santhi1317/customwidgets.github.io/blob/main/Webcomponent.js",
 			"integrity": ""	,
 			"ignoreIntegrity": true
 			
